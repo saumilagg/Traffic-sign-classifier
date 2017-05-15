@@ -14,8 +14,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/visualization1.png "Visualization"
-[image2]: ./examples/histo.png "Histogram"
+[image1]: ./examples/visualization1.PNG "Visualization"
+[image2]: ./examples/histo.PNG "Histogram"
 [image3]: ./traffic_signs/s1.jpg "Traffic Sign 1"
 [image4]: ./traffic_signs/s2.jpg "Traffic Sign 2"
 [image5]: ./traffic_signs/s3.jpg "Traffic Sign 3"
