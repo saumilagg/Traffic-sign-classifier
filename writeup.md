@@ -148,6 +148,8 @@ First image
 
 ![alt text][image3]
 
+For the first image, the model is very sure that this is a bicycle crossing sign (probability close to 99%), and the image does not contain a bicycle crossing sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | .99         			| Bicycle crossing 								| 
@@ -161,6 +163,8 @@ Second image
 
 ![alt text][image4]
 
+For the second image, the model is certain that this is a speed limit 60km/h (probability of 0.99), and the image does contain a 60km/h speed limit sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | .99         			| Speed 60km/h   								| 
@@ -172,6 +176,8 @@ Second image
 Third image
 
 ![alt text][image5]
+
+For the third image, the model is certain that this is a right of way at intersection sign (probability of 1.0), and the image does contain a right of way at intersection. The top five soft max probabilities were
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
@@ -185,6 +191,8 @@ Fourth image
 
 ![alt text][image6]
 
+For the fourth image, the model is relatively sure that this is a road work sign (probability of 0.8), and the image does contain a road work sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | .80       			| Road Work										| 
@@ -197,6 +205,8 @@ Fifth image
 
 ![alt text][image7]
 
+For the fifth image, the model is almost certain that this is a no passing sign (probability of 1.0), and the image does not contain a no passing sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 1.0         			| No Passing   									| 
@@ -208,6 +218,8 @@ Fifth image
 Sixth image
 
 ![alt text][image8]
+
+For the sixth image, the model is relatively certain that this is a no passing sign (probability of 0.99), and the image does not contain a no passing sign. The top five soft max probabilities were
 
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
